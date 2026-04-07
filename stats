@@ -15,26 +15,26 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 40,
+                "Damage": 15,
                 "Cooldown": 1
             },
             {
                 "Price": 500,
                 "Range": 12,
-                "Damage": 50,
+                "Damage": 20,
                 "Cooldown": 1
             },
             {
                 "Price": 750,
                 "Range": 14,
-                "Damage": 60,
+                "Damage": 30,
                 "Cooldown": 1
             },
             {
                 "Price": 1250,
                 "Range": 15,
                 "Damage": 60,
-                "Cooldown": 0.75
+                "Cooldown": 0.80
             }
         ]
     },
@@ -42,8 +42,8 @@
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
         "Rarity": "Uncommon",
-        "PlacePrice": 500,
-        "Max": 3,
+        "PlacePrice": 650,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -64,9 +64,9 @@
             },
             {
                 "Price": 1200,
-                "Range": 12,
+                "Range": 13,
                 "Damage": 60,
-                "Cooldown": 2
+                "Cooldown": 2.2
             },
             {
                 "Price": 1500,
