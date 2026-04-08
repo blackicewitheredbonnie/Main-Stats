@@ -1788,7 +1788,7 @@
             }
         ]
     },
-    "Phantom Gold Freddy": {
+    "Phantom Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18363517791",
         "Rarity": "Mythic",
@@ -1974,28 +1974,28 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 0,
+                "Damage": 1,
                 "Cooldown": 0.05,
                 "Slow": 0.8
             },
             {
                 "Price": 2400,
                 "Range": 17,
-                "Damage": 0,
+                "Damage": 2,
                 "Cooldown": 0.05,
                 "Slow": 0.7
             },
             {
                 "Price": 3000,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 3,
                 "Cooldown": 0.05,
                 "Slow": 0.6
             },
             {
                 "Price": 4000,
                 "Range": 25,
-                "Damage": 0,
+                "Damage": 4,
                 "Cooldown": 0.05,
                 "Slow": 0.5
             }
