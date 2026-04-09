@@ -414,7 +414,7 @@
         ]
     },
     "Withered Bonnie": {
-        "Type": "Single",
+        "Type": "Continuous Single + Stun",
         "Image": "rbxassetid://16632217188",
         "Rarity": "Secret",
         "PlacePrice": 20000,
@@ -430,25 +430,33 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 25,
-                "Cooldown": 0.05
+                "Cooldown": 0.1
+                "Stun": 0.1
+                "StunTime": 0.1
             },
             {
                 "Price": 35000,
                 "Range": 28,
                 "Damage": 30,
-                "Cooldown": 0.05
+                "Cooldown": 0.075
+                "Stun": 0.1
+                "StunTime": 0.1
             },
             {
                 "Price": 50000,
                 "Range": 32,
                 "Damage": 40,
                 "Cooldown": 0.05
+                "Stun": 0.1
+                "StunTime": 0.1
             },
             {
                 "Price": 70000,
                 "Range": 35,
                 "Damage": 50,
                 "Cooldown": 0.05
+                "Stun": 0.1
+                "StunTime": 0.1
             }
         ]
     },
