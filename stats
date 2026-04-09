@@ -414,10 +414,11 @@
         ]
     },
     "Withered Bonnie": {
-        "Type": "Continuous Single + Stun",
+        "Type": "Continuous Single + Passive",
         "Image": "rbxassetid://16632217188",
         "Rarity": "Secret",
         "PlacePrice": 20000,
+        "Passive": {"Name": "Face The Consequences", "Description": "Enemies Hit Will Take 0.1 Stun For 0.1 Seconds."},
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
