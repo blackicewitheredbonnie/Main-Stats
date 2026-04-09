@@ -260,7 +260,7 @@
         ]
     },
     "Bonnie": {
-        "Type": "Continuous",
+        "Type": "Continuous Single",
         "Image": "rbxassetid://16620268084",
         "Rarity": "Mythic",
         "PlacePrice": 7500,
@@ -678,7 +678,7 @@
             {
                 "Price": 50000,
                 "Range": 18,
-                "Damage": 36,
+                "Damage": 500,
                 "Cooldown": 0.05
             }
         ]
