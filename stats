@@ -852,9 +852,9 @@
         ]
     },
     "Endo": {
-        "Type": "Support",
+        "Type": "Damage Boost",
         "Image": "rbxassetid://17851638702",
-        "Rarity": "Secret",
+        "Rarity": "Pizzaria Secret",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
@@ -897,7 +897,7 @@
     "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
-        "Rarity": "Secret",
+        "Rarity": "pizzaria Secret",
         "PlacePrice": 600,
         "Max": 4,
         "hitboxOffset": {
@@ -1014,9 +1014,9 @@
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
         "Rarity": "Secret",
-        "PlacePrice": 500,
+        "PlacePrice": 900,
         "Offset": 0.55,
-        "Max": 3,
+        "Max": 5,
         "Passive": {"Name": "Pirate's Curse", "Description": "Targeted enemies take 25% more damage for 1 second"},
         "hitboxOffset": {
             "X": 0,
@@ -1153,7 +1153,7 @@
         ]
     },
     "Baker Toy Chica": {
-        "Type": "Explosion",
+        "Type": "Explosion + Burn",
         "Image": "rbxassetid://18161347460",
         "Rarity": "Epic",
         "PlacePrice": 800,
@@ -1191,12 +1191,12 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Slow",
+        "Type": "Single Slow",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
+        "Passive": {"Name": "Water Gun", "Description": "Slows enemies By 30% For 1 Second"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1440,7 +1440,7 @@
         ]
     },
     "Hawaii Endo 02": {
-        "Type": "Support",
+        "Type": "Range Boost",
         "Image": "rbxassetid://18255863130",
         "Rarity": "Epic",
         "PlacePrice": 1000,
@@ -1599,7 +1599,7 @@
         ]
     },
     "Endo 03": {
-        "Type": "Single",
+        "Type": "Single + Bleed",
         "Image": "rbxassetid://18363471703",
         "Rarity": "Epic",
         "PlacePrice": 2000,
@@ -1675,9 +1675,9 @@
         ]
     },
    "Phantom Chica": {
-        "Type": "Explosion",
+        "Type": "Explosion + Burn",
         "Image": "rbxassetid://18356356760",
-        "Rarity": "Secret",
+        "Rarity": "Pizzaria Secret",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
@@ -1713,7 +1713,7 @@
         ]
     },
     "Phantom Freddy": {
-        "Type": "Continuous",
+        "Type": "Continuous Single",
         "Image": "rbxassetid://18363498934",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -1751,7 +1751,7 @@
         ]
     },
     "Phantom Balloon Boy": {
-        "Type": "Nuke",
+        "Type": "Nuke + Poison",
         "Image": "rbxassetid://18356472602",
         "Rarity": "Secret",
         "PlacePrice": 7500,
@@ -1921,7 +1921,7 @@
         ]
     },
     "Phantom Cupcake": {
-        "Type": "Single",
+        "Type": "Single + Bleed",
         "Image": "rbxassetid://18363537562",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -1959,12 +1959,12 @@
         ]
     },
     "Amalgam": {
-        "Type": "Continuous Slow",
+        "Type": "Continuous Single + Slow",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50%"},
+        "Passive": {"Name": "Amalgamations Wraith ", "Description": "Slows Targetted Enemy by 50%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2040,9 +2040,9 @@
         ]
     },
     "Spring Bonnie": {
-        "Type": "Support",
+        "Type": "Damage Boost",
         "Image": "rbxassetid://18364574191",
-        "Rarity": "Nightmare",
+        "Rarity": "Pizzaria Secret",
         "PlacePrice": 1000,
         "Max": 2,
         "hitboxOffset": {
@@ -2083,9 +2083,9 @@
         ]
     },
   "Bounded Shadow": {
-        "Type": "Pierce",
+        "Type": "Pierce + Slow ",
         "Image": "rbxassetid://18363555442",
-        "Rarity": "Nightmare",
+        "Rarity": "Vengeful",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
@@ -2099,35 +2099,43 @@
                 "Range": 16,
                 "Damage": 1760,
                 "Cooldown": 2
+                "Slow": 0.9
+                "SlowTime": 2
             },
             {
                 "Price": 15000,
                 "Range": 18,
                 "Damage": 1920,
                 "Cooldown": 1.5
+                "Slow": 0.9
+                "SlowTime": 2
             },
             {
                 "Price": 17000,
                 "Range": 20,
                 "Damage": 3520,
                 "Cooldown": 1.5
+                "Slow": 0.9
+                "SlowTime": 2
             },
             {
                 "Price": 22000,
                 "Range": 22,
                 "Damage": 4000,
                 "Cooldown": 1
+                "Slow": 0.8
+                "SlowTime": 2
             }
         ]
     },
     "Sentinel Bonnie": {
-        "Type": "Continuous",
+        "Type": "Continuous Single",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Nightmare",
+        "Rarity": "Pizzaria Secret",
         "PlacePrice": 3000,
         "Offset": 0.35,
         "Max": 1,
-        "Passive": {"Name": "Bleed", "Description": "Targetted enemies suffer from 100% Anti Regen for 1 second."},
+        "Passive": {"Name": "WarStander", "Description": "Targetted enemies Lose The Ability To Regen for 1 second."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
