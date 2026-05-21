@@ -38,6 +38,45 @@
             }
         ]
     },
+ "Prototype Endo 01": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Uncommon",
+        "PlacePrice": 177,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 19,
+                "Damage": 25,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 15,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 12,
+                "Damage": 15,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1350,
+                "Range": 13,
+                "Damage": 21,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
